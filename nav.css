@@ -1,0 +1,164 @@
+body {
+	background: #eee;
+	background-image: url("background.png");
+}
+#page0 {
+	position:absolute;
+	top: 20px;
+	left: 450px;
+}
+#page1 {
+	position:absolute;
+	top: 20px;
+	left: 600px;
+}
+
+#page2 {
+	position:absolute;
+	top: 20px;
+	left: 800px;
+	
+}
+
+#page3 {
+	position:absolute;
+	top: 20px;
+	left: 1040px;
+}
+#page4 {
+	position:absolute;
+	top: 20px;
+	left: 1260px;
+}
+#page5 {
+	position:absolute;
+	top: 20px;
+	left: 1420px;
+}
+nav {	
+	background: black;
+	padding: 120px 10px 80px 10px;
+	font: bold 40px arial, sans-serif;
+}
+a:hover {
+	color: black ;
+	background-color: white ;
+}
+#basketball {
+	position:absolute;
+	top: 220px;
+	left: 1286px;
+}
+#hockey {
+	position:absolute;
+	top: 220px;
+	left: 647px;
+}
+#football0 {
+	position:absolute;
+	top: 220px;
+	left: 8px;
+}
+#football {
+	position:absolute;
+	top: 700px;
+	left: 200px;
+}
+#football2 {
+	position:absolute;
+	top: 1150px;
+	left: 200px;
+}
+#football5 {
+	position:absolute;
+	top: 1600px;
+	left: 200px;
+}
+#stadium {
+	position:absolute;
+	top: 2050px;
+	left: 200px;
+}
+#locker {
+	position:absolute;
+	top: 2500px;
+	left: 200px;
+}
+#header1 {
+	position:absolute;
+	top: 625px;
+	left: 200px;
+	color: #2700fb;
+	font-family: heebo,roboto,helvetica neue,Helvetica,Arial,sans-serif;
+	text-transform: uppercase;
+}
+#text2 {
+		position:absolute;
+		top: 700px;
+		left: 830px;
+		height: 390px;
+		width: 1000px;
+		border: 5px solid black;
+		background: #0072ff;
+}
+#text3 {
+		position:absolute;
+		top: 1150px;
+		left: 830px;
+		height: 390px;
+		width: 1000px;
+		border: 5px solid black;
+		background: #0072ff;
+}
+#text4 {
+		position:absolute;
+		top: 1600px;
+		left: 830px;
+		height: 390px;
+		width: 1000px;
+		border: 5px solid black;
+		background: #0072ff;
+}
+#text5 {
+		position:absolute;
+		top: 2050px;
+		left: 830px;
+		height: 390px;
+		width: 1000px;
+		border: 5px solid black;
+		background: #0072ff;
+}
+#text6 {
+		position:absolute;
+		top: 2500px;
+		left: 830px;
+		height: 390px;
+		width: 1000px;
+		border: 5px solid black;
+		background: #0072ff;
+}
+#basketball2 {
+	position:absolute;
+	top: 650px;
+	left: 200px;
+}
+#basketball3 {
+	position:absolute;
+	top: 1100px;
+	left: 200px;
+}
+#recruting {
+	position:absolute;
+	top: 650px;
+	left: 200px;
+}
+#fourm1 {
+	position:absolute;
+	top: 350px;
+	left: 200px;
+}
+#forum2 {
+	position:absolute;
+	top: 800px;
+	left: 200px;
+}
